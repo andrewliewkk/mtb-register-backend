@@ -22,9 +22,9 @@ def get_updated_schedule_text():
     ]
     return settings.TELEGRAM_NEW_LINE.join(str(line) for line in schedule_text)
 
-def get_registrations_by_date(date):
+# def get_registrations_by_date(date):
 
 
-def get_upcoming_dates():
+# def get_upcoming_dates():
 
-def get_text_from_registrations():
+# def get_text_from_registrations():
