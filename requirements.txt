@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+fastapi-utils
+pytz
+requests
+pymongo==3.11.1
+pydantic==1.7.3
+dnspython==2.0.0
+motor==2.3.0
